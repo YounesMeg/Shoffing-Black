@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189656093970",
+    "project_id": "fir-auth-app-dc830",
+    "storage_bucket": "fir-auth-app-dc830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189656093970:android:89ada7f7edfab76ff90fcb",
+        "android_client_info": {
+          "package_name": "com.example.black_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189656093970-o3d124tf2m6t80e5fdn8p4d41plevjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ka6GnE43nAdaFlfnJjx2JiYi1_r4wA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189656093970-o3d124tf2m6t80e5fdn8p4d41plevjr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
